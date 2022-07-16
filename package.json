@@ -1,0 +1,26 @@
+{
+  "name": "study_arr_move",
+  "version": "1.0.0",
+  "description": "just a study for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millker/study_arr_move.git"
+  },
+  "keywords": [
+    "array",
+		"move",
+		"change",
+		"position",
+		"index"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millker/study_arr_move/issues"
+  },
+  "homepage": "https://github.com/millker/study_arr_move#readme"
+}
