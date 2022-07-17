@@ -4,7 +4,7 @@
   "description": "just a study for learning",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest && tsd"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/millker/study_arr_move#readme",
   "devDependencies": {
     "vitest": "^0.18.0"
+  },
+  "dependencies": {
+    "tsd": "^0.22.0"
   }
 }
